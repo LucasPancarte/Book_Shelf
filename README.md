@@ -79,6 +79,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Tech Anim Dump](https://techanimator.blogspot.com/)
   - [Cult of Rig](http://www.cultofrig.com/)
 
+
 # **Houdini Tutorials :**
   - [Space Girl Rig](https://www.sidefx.com/learn/collections/space-girl-rigging/)
   - [Cat quadruped Rig](https://www.sidefx.com/tutorials/cat-quad-rigging-01-getting-started/)
@@ -113,6 +114,15 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Dynamic Suspension](https://vimeo.com/123491832)
   - [Animating 2D from texture](https://www.youtube.com/watch?time_continue=1&v=WSLyA7eQWOU)
   - [Making things  with Math](https://www.youtube.com/watch?v=Zkx1aKv2z8o)
+  - [Alex Man - Rigging Dynamic Controls with Color Ramp](https://www.youtube.com/watch?v=Pimp1P01qpo&feature=youtu.be)
+  - [Jorn-Harald Paulsen - Creating the Procedural Ribbon](https://vimeo.com/108727407)
+  - [Making Things With Math](https://www.youtube.com/watch?v=Zkx1aKv2z8o)
+  - [Ubisoft - Alexander Bereznyak's IK Rig](https://www.youtube.com/watch?v=KLjTU0yKS00)
+  - [Animation Bootcamp: An Indie Approach to Procedural Animation](https://www.youtube.com/watch?v=LNidsMesxSE)
+  - [Richard Lico - Freeform space switching](https://vimeo.com/298082350)
+  - [Miguel dos Campos - MGear](https://www.youtube.com/channel/UCJsN2KCAD7qkA6-fOeB2fOw/playlists?view=1&sort=dd&shelf_id=0)
+  - [3DeepLearner - Neural Network in maya](https://www.youtube.com/channel/UCO7IRYFupM2QyZFZw8MzAoA)
+  - [Paul Neale - Facial Rigging Methods](https://paulneale.com/tutorials/facial-rigging-method-which-is-best-for-you-and-your-production/)
   - []()
   
 
@@ -134,6 +144,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [AnimSchool (only for animSchool students)](https://www.animschool.com/Characters.aspx)
   - [iAnimate (only for iAnimate students)](https://ianimate.net/rigs.html)
   - [Animator's Ressource Kit](https://animatorsresourcekit.blog/category/assets/rigs/)
+  - [Create3DCharacters](https://create3dcharacters.com/package-courses/)
   - []()
 
 # **Other Ressources :**
