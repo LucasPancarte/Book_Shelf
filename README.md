@@ -1,2 +1,45 @@
-# Book_Shelf
-A collection of papers I find interesting and have ( or not ) read
+## A collection of papers and tutorials I'm building
+---
+# **Book_Shelf**
+  - [Approximate Topological Matching of Quadrilateral Meshes](https://drive.google.com/open?id=19mPOaiJmF7F7lk_KatztsTfGqbDUNkIQ)
+  - [Asynchronous Contact Mechanics](https://drive.google.com/open?id=1n_YJR0LH-xLlzs-qRokJstbHe33u5lkB)
+  - [Interactive Script Based Dynamics in Big Hero 6](https://drive.google.com/open?id=1hj9KL943v8XnfHkmAZjys5ibaMJVa6wn)
+  - [Smooth Skinning Decomposition with Rigid Bones](https://drive.google.com/file/d/1LQ8NvwXmJblSqm0xLZrtSmK98wh-HeqM/view?usp=sharing)
+  - [A Deformer-Based Approach to Facial Rigging](https://drive.google.com/file/d/1DCG8Q83MtQf_eAERysa_00VWnNGwMiD2/view?usp=sharing)
+  - [Accurate Markerless Jaw Tracking for Facial Performance Capture](https://drive.google.com/open?id=1aVz3uaCxfhSvj3gC3ALpo663DoqHoVeW)
+  - [Animating an Autonomous 3D Talking Avatar](https://drive.google.com/open?id=1PtL7ZgqEVHdUuqUoznigZtQagvuTM0N3)
+  - [Automated Target Selection for DrivenShape](https://drive.google.com/open?id=1g4zQ11jHEfSN-FiubgIC6rZwfFKnWaJU)
+  - [Fast and Deep Deformation Approximations](https://drive.google.com/open?id=1gKqmpt2KRFaXk2yK02XmLfYJOCU0czuW)
+
+# **Houdini Tutorials :**
+  - [Space Girl Rig](https://www.sidefx.com/learn/collections/space-girl-rigging/)
+  - [Cat quadruped Rig](https://www.sidefx.com/tutorials/cat-quad-rigging-01-getting-started/)
+  - [Rigging with CHOPS](https://www.sidefx.com/tutorials/rigging-with-chops-2-with-added-foot-roll/)
+  - [Rigging basics](https://www.sidefx.com/learn/collections/rigging-series/)
+  - [Horse Rig]( https://www.sidefx.com/learn/collections/horse-rig/)
+  - [Cartoon Eye Rig](https://www.sidefx.com/tutorials/rigging-cartoony-eyes/)
+  - [ForeArm Twist](https://vimeo.com/353359375  )
+  - [Collision Solver VEX](https://vimeo.com/354713010)
+  - [Space switching](https://vimeo.com/361781061)
+  - [Motion Blur Deform with VEX](https://vimeo.com/272301148)
+  - [Dynamic Menu System](https://lesterbanks.com/2019/09/how-to-build-a-dynamic-menu-system-in-houdini/)
+
+## **Rigging Tutorials :**
+  - [Shoulder setup](https://www.youtube.com/watch?time_continue=1798&v=9WKbQL8GvWY)
+  - [Neck collisiion](https://lesterbanks.com/2018/04/create-joint-based-collar-collision-rig/)
+  - [Wrinkle set up](https://www.youtube.com/watch?v=qNfThjdjU8M)
+  - [Car setup](https://lesterbanks.com/2018/11/car-rigging-basics-maya/)
+  - [Texture based PSD](https://vimeo.com/115944813)
+  - [Motion builder python](http://awforsythe.com/tutorials/pyfbsdk-1)
+  - [Essential math, Vector Representation]( https://vimeopro.com/rhino/essential-mathematics-vector-representation  )
+  - [Better Solution for Dual Knee/Elbow Setup](https://vimeo.com/253276117)
+  - [Eye Miniscuc Rig](https://vimeo.com/195583755)
+  - ["Food Thief style arm"](https://vimeo.com/352059948)
+  - [Eye rig using nurbsSurfaceSphere](https://vimeo.com/351910361)
+  - [Moanim Producer](https://vimeo.com/354478139)
+  - [Bifrost Basics](https://lesterbanks.com/2019/08/get-started-using-bifrost-graph-with-these-basics/)
+  - [Import/Export Bifrost Compound](https://lesterbanks.com/2019/08/how-to-export-and-import-bifrost-compounds/)
+  - [Bifrost bulge deformer](https://lesterbanks.com/2019/08/how-to-build-a-bulge-deformer-compound-with-bifrost/?fbclid=IwAR1JPOVDApLSIKR2wE-NHAu7daaI3rxmtmnRFvKTCtULP1E5ZH9Rc_WlBrE)
+  - [Dynamic Suspension](https://vimeo.com/123491832)
+  - [Animating 2D from texture](https://www.youtube.com/watch?time_continue=1&v=WSLyA7eQWOU)
+  - [Making things  with Math](https://www.youtube.com/watch?v=Zkx1aKv2z8o)
