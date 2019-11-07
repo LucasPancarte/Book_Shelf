@@ -72,6 +72,17 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Unicode & Character Encodings in Python: A Painless Guide](https://drive.google.com/open?id=1C11F3_CgIOrDwdoCIji88Fpr_ak9xnz-)
   - [Machine Learning, Kolmogorov Complexity, and Squishy Bunnies](https://drive.google.com/open?id=1UDh52nbZxZT4jd25rK8crYvvJ9P-HNI_)
   - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
+  - [Make a face](https://drive.google.com/open?id=1b9PcheR70o2_B7_ARF8AUkCN25oZ0Fik)
+  - [Building Accurate Physics-based Face Models from Data](https://drive.google.com/open?id=1WqREyA9zW-OTECk3b59Z2Om7y_4rWFg7)
+  - [Weta Digital’s Remarkable Face Pipeline](https://drive.google.com/open?id=15YhE5S06AZy3gCQZrUiEL8TD5AijBFMx)
+  - [Deep Incremental Learning for Efficient High-Fidelity Face Tracking](https://drive.google.com/open?id=1O8KDwC-XsmebO7pbXSeacy6wP9lvQk41)
+  - [Photorealistic Facial Texture Inference Using Deep Neural](https://drive.google.com/open?id=16bN_RZDIf_M5PXqFTnHuQiAnINzTNZMD)
+  - [Art-Directed Muscle Simulation for High-End Facial Animation](https://drive.google.com/open?id=1C928BUoWnt-_a_zElPQSpP5n7ewj-g3q)
+  - [Building and Animating User-Specific Volumetric Face Rigs](https://drive.google.com/open?id=1KK7rYmFrGzXBQpb57ALLAZVehtcLxpNq)
+  - [An Anatomically-Constrained Local Deformation Model for Monocular Face Capture](https://drive.google.com/open?id=17Lgqn71siDQin9O1e2nuylW5NFQ5kopL)
+  - [Phace: Physics-based Face Modeling and Animation](https://drive.google.com/open?id=1v6s7eR-ibiDij1LE_GD2lAg8fWl_wnzA)
+  - [Direct Delta Mush Skinning and variants](https://drive.google.com/open?id=1fTDAnGk4OhyOUePLWP2V2Ela6wnn5FDf)
+  - [Muscle-Based Control For Character Animation](https://drive.google.com/open?id=1_byY0qKJT7ujtAmPLMJ_J80D2oeiZSAS)
   
 
 # **Blogs :**
@@ -80,7 +91,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Tech Anim Dump](https://techanimator.blogspot.com/)
   - [Cult of Rig](http://www.cultofrig.com/)
   - [Rigging Clown](http://the-rigging-clown.blogspot.com/)
-  - []()
+  - [Matthew Cong - RnD ILM](http://physbam.stanford.edu/~mdcong/)
 
 
 # **Houdini Tutorials :**
@@ -126,7 +137,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Miguel dos Campos - MGear](https://www.youtube.com/channel/UCJsN2KCAD7qkA6-fOeB2fOw/playlists?view=1&sort=dd&shelf_id=0)
   - [3DeepLearner - Neural Network in maya](https://www.youtube.com/channel/UCO7IRYFupM2QyZFZw8MzAoA)
   - [Paul Neale - Facial Rigging Methods](https://paulneale.com/tutorials/facial-rigging-method-which-is-best-for-you-and-your-production/)
-  - []()
+  - [Game Character Creation with Naughty Dog - Pt.1](https://www.youtube.com/watch?v=R6uAOmH0QsE)
   
 
 # **Where To Download Rigs :**
