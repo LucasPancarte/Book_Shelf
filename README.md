@@ -78,6 +78,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Math for 3D](https://zalo.github.io/)
   - [Tech Anim Dump](https://techanimator.blogspot.com/)
   - [Cult of Rig](http://www.cultofrig.com/)
+  - [Rigging Clown](http://the-rigging-clown.blogspot.com/)
 
 
 # **Houdini Tutorials :**
