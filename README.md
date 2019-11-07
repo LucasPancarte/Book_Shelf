@@ -167,4 +167,5 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [3DSMax Scripting Reference](http://help.autodesk.com/view/3DSMAX/2018/ENU/?guid=__files_GUID_6FC81BE7_58FF_4C63_8362_0BDCFA9F904C_htm)
   - [Master of Rigging - videos](https://vimeo.com/groups/masterofrigging)
   - [HighEnd / CreativeCrash](https://www.highend3d.com/)
+  - [Google Collab - IDE](https://colab.research.google.com/)
   
