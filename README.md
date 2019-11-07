@@ -147,7 +147,10 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [iAnimate (only for iAnimate students)](https://ianimate.net/rigs.html)
   - [Animator's Ressource Kit](https://animatorsresourcekit.blog/category/assets/rigs/)
   - [Create3DCharacters](https://create3dcharacters.com/package-courses/)
-  - []()
+  - [HighEnd character Rig bank](https://www.highend3d.com/marketplace/search?rigged=1)
+  - [Cori Rig - Blender](https://www.highend3d.com/3d-model/cori-the-dreamer-3d-model)
+  - [CG talk rigging list](https://forums.cgsociety.org/t/the-maya-free-rig-list/969684)
+  - [Joel 3D rigs](http://joel3d.com/downloadsFromJoel3d.html)
 
 # **Other Ressources :**
   - [Lesterbankcs - tutorials](https://lesterbanks.com/?a1=4)
@@ -161,5 +164,6 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Maya 2018 API](http://help.autodesk.com/view/MAYAUL/2018/ENU/?guid=__cpp_ref_index_html)
   - [MotionBuilder Python API](http://docs.autodesk.com/MB/2015/ENU/MotionBuilder-Developer-Help/index.html#!/url=./py_ref/index.html)
   - [3DSMax Scripting Reference](http://help.autodesk.com/view/3DSMAX/2018/ENU/?guid=__files_GUID_6FC81BE7_58FF_4C63_8362_0BDCFA9F904C_htm)
-  - []()
+  - [Master of Rigging - videos](https://vimeo.com/groups/masterofrigging)
+  - [HighEnd / CreativeCrash](https://www.highend3d.com/)
   
