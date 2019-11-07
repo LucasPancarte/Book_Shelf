@@ -83,7 +83,9 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Phace: Physics-based Face Modeling and Animation](https://drive.google.com/open?id=1v6s7eR-ibiDij1LE_GD2lAg8fWl_wnzA)
   - [Direct Delta Mush Skinning and variants](https://drive.google.com/open?id=1fTDAnGk4OhyOUePLWP2V2Ela6wnn5FDf)
   - [Muscle-Based Control For Character Animation](https://drive.google.com/open?id=1_byY0qKJT7ujtAmPLMJ_J80D2oeiZSAS)
-  
+  - [Automatic Retargeting v2](https://drive.google.com/open?id=1_Dw32u8HjO_wMhQjXbxUzzoFU4dPDBU_)
+  - [Wrinkle Map](https://drive.google.com/open?id=1dm3b9k1aZgx8ETxVI6_KdMAO8QgkBl5w)
+  - [Concordial Research Proposal 2015](https://drive.google.com/open?id=1jYW3mXwro0afZ3NXwt6kp3IgNotAFx8W)
 
 # **Blogs :**
   - [JustToDoSomethingBad - Ephemeral Rigging Blog](https://www.justtodosomethingbad.com/)
