@@ -181,4 +181,5 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Master of Rigging - videos](https://vimeo.com/groups/masterofrigging)
   - [HighEnd / CreativeCrash](https://www.highend3d.com/)
   - [Google Collab - IDE](https://colab.research.google.com/)
-  
+  - [Gnomon Events](https://www.gnomon.edu/community/events)
+  - [GDC talks](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
