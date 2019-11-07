@@ -71,7 +71,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Stable Neo-Hookean Flesh Simulation](https://drive.google.com/open?id=1ShCa_bnxoAUt78s4ZW5K4XYq0B1D2pDL)
   - [Unicode & Character Encodings in Python: A Painless Guide](https://drive.google.com/open?id=1C11F3_CgIOrDwdoCIji88Fpr_ak9xnz-)
   - [Machine Learning, Kolmogorov Complexity, and Squishy Bunnies](https://drive.google.com/open?id=1UDh52nbZxZT4jd25rK8crYvvJ9P-HNI_)
-  - []()
+  - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
   
 
 # **Blogs :**
@@ -80,6 +80,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Tech Anim Dump](https://techanimator.blogspot.com/)
   - [Cult of Rig](http://www.cultofrig.com/)
   - [Rigging Clown](http://the-rigging-clown.blogspot.com/)
+  - []()
 
 
 # **Houdini Tutorials :**
