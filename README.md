@@ -140,6 +140,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [3DeepLearner - Neural Network in maya](https://www.youtube.com/channel/UCO7IRYFupM2QyZFZw8MzAoA)
   - [Paul Neale - Facial Rigging Methods](https://paulneale.com/tutorials/facial-rigging-method-which-is-best-for-you-and-your-production/)
   - [Game Character Creation with Naughty Dog - Pt.1](https://www.youtube.com/watch?v=R6uAOmH0QsE)
+  - [Snake Like Rig Using Geo Constraints](https://vimeo.com/16761041)
   
 
 # **Where To Download Rigs :**
