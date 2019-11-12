@@ -167,6 +167,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [CG talk rigging list](https://forums.cgsociety.org/t/the-maya-free-rig-list/969684)
   - [Joel 3D rigs](http://joel3d.com/downloadsFromJoel3d.html)
   - [AnimSquad (only for AnimSquad students)](https://www.animsquad.com/characters)
+  - [Megabubu Rigs](https://gumroad.com/megabubu?fbclid=IwAR2BOvnqJCkC5VA1E18zfdZjmc8mVDdO9t2XUFnRBedptN_hzCnzxtsbup4)
 
 # **Other Ressources :**
   - [Lesterbankcs - tutorials](https://lesterbanks.com/?a1=4)
