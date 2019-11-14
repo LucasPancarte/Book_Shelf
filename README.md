@@ -86,6 +86,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Automatic Retargeting v2](https://drive.google.com/open?id=1_Dw32u8HjO_wMhQjXbxUzzoFU4dPDBU_)
   - [Wrinkle Map](https://drive.google.com/open?id=1dm3b9k1aZgx8ETxVI6_KdMAO8QgkBl5w)
   - [Concordial Research Proposal 2015](https://drive.google.com/open?id=1jYW3mXwro0afZ3NXwt6kp3IgNotAFx8W)
+  - [DRECON: DATA-DRIVEN RESPONSIVE CONTROL OF PHYSICS-BASED CHARACTERS](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/)
 
 # **Blogs :**
   - [JustToDoSomethingBad - Ephemeral Rigging Blog](https://www.justtodosomethingbad.com/)
