@@ -71,7 +71,6 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Stable Neo-Hookean Flesh Simulation](https://drive.google.com/open?id=1ShCa_bnxoAUt78s4ZW5K4XYq0B1D2pDL)
   - [Unicode & Character Encodings in Python: A Painless Guide](https://drive.google.com/open?id=1C11F3_CgIOrDwdoCIji88Fpr_ak9xnz-)
   - [Machine Learning, Kolmogorov Complexity, and Squishy Bunnies](https://drive.google.com/open?id=1UDh52nbZxZT4jd25rK8crYvvJ9P-HNI_)
-  - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
   - [Make a face](https://drive.google.com/open?id=1b9PcheR70o2_B7_ARF8AUkCN25oZ0Fik)
   - [Building Accurate Physics-based Face Models from Data](https://drive.google.com/open?id=1WqREyA9zW-OTECk3b59Z2Om7y_4rWFg7)
   - [Weta Digital’s Remarkable Face Pipeline](https://drive.google.com/open?id=15YhE5S06AZy3gCQZrUiEL8TD5AijBFMx)
@@ -95,6 +94,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Cult of Rig](http://www.cultofrig.com/)
   - [Rigging Clown](http://the-rigging-clown.blogspot.com/)
   - [Matthew Cong - RnD ILM](http://physbam.stanford.edu/~mdcong/)
+  - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
 
 
 # **Houdini Tutorials :**
@@ -187,3 +187,4 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Google Collab - IDE](https://colab.research.google.com/)
   - [Gnomon Events](https://www.gnomon.edu/community/events)
   - [GDC talks](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
+  - [SyncSketch - Animation Retake online tool](https://syncsketch.com/)
