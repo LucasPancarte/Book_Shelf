@@ -169,6 +169,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Joel 3D rigs](http://joel3d.com/downloadsFromJoel3d.html)
   - [AnimSquad (only for AnimSquad students)](https://www.animsquad.com/characters)
   - [Megabubu Rigs](https://gumroad.com/megabubu?fbclid=IwAR2BOvnqJCkC5VA1E18zfdZjmc8mVDdO9t2XUFnRBedptN_hzCnzxtsbup4)
+  - [Alorema Rigs](https://gumroad.com/alorema?fbclid=IwAR0Jzs4nMVJvzcngrtGhDVCzc67ntfaOWPZsy7e0hECi98WLSeR-68QDqDo)
 
 # **Other Ressources :**
   - [Lesterbankcs - tutorials](https://lesterbanks.com/?a1=4)
