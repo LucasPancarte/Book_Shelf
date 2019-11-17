@@ -112,7 +112,8 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - []()
   
 
-# **Rigging Tutorials (Non Houdini) :**
+# **Rigging Tutorials (Non Houdini) :***
+  - [Maya Character Rigging Fundamentals](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
   - [Shoulder setup](https://www.youtube.com/watch?time_continue=1798&v=9WKbQL8GvWY)
   - [Neck collisiion](https://lesterbanks.com/2018/04/create-joint-based-collar-collision-rig/)
   - [Wrinkle set up](https://www.youtube.com/watch?v=qNfThjdjU8M)
