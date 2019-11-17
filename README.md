@@ -112,8 +112,9 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - []()
   
 
-# **Rigging Tutorials (Non Houdini) :***
+# **Rigging Tutorials (Non Houdini) :**
   - [Maya Character Rigging Fundamentals](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
+  - [Maya Character Asset](https://www.youtube.com/watch?v=ym9VIKB0tXI&list=PL8hZ6hQCGHMUire3-V9bz4nAjdNK3ff6a)
   - [Shoulder setup](https://www.youtube.com/watch?time_continue=1798&v=9WKbQL8GvWY)
   - [Neck collisiion](https://lesterbanks.com/2018/04/create-joint-based-collar-collision-rig/)
   - [Wrinkle set up](https://www.youtube.com/watch?v=qNfThjdjU8M)
@@ -143,6 +144,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Paul Neale - Facial Rigging Methods](https://paulneale.com/tutorials/facial-rigging-method-which-is-best-for-you-and-your-production/)
   - [Game Character Creation with Naughty Dog - Pt.1](https://www.youtube.com/watch?v=R6uAOmH0QsE)
   - [Snake Like Rig Using Geo Constraints](https://vimeo.com/16761041)
+  - [Maya Mash](https://www.youtube.com/watch?v=5UDr_nK9PSs&list=PLd9alCBg4-McRCZ1BBhYoLqmpZIq4GPy8)
   
 
 # **Where To Download Rigs :**
