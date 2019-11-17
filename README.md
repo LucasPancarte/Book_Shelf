@@ -145,6 +145,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Game Character Creation with Naughty Dog - Pt.1](https://www.youtube.com/watch?v=R6uAOmH0QsE)
   - [Snake Like Rig Using Geo Constraints](https://vimeo.com/16761041)
   - [Maya Mash](https://www.youtube.com/watch?v=5UDr_nK9PSs&list=PLd9alCBg4-McRCZ1BBhYoLqmpZIq4GPy8)
+  - [Rigging wheels using world Vectors](https://www.youtube.com/watch?v=QpDc93br3dM)
   
 
 # **Where To Download Rigs :**
