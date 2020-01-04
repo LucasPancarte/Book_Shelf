@@ -95,6 +95,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Rigging Clown](http://the-rigging-clown.blogspot.com/)
   - [Matthew Cong - RnD ILM](http://physbam.stanford.edu/~mdcong/)
   - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
+  - [BindPose - Rigging and Scripting Blog](https://bindpose.com/)
 
 
 # **Houdini Tutorials :**
@@ -193,3 +194,5 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Gnomon Events](https://www.gnomon.edu/community/events)
   - [GDC talks](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
   - [SyncSketch - Animation Retake online tool](https://syncsketch.com/)
+  - [Houndini VEX](https://www.sidefx.com/docs/houdini/vex/functions/index.html)
+  - [Houdini Python](https://www.sidefx.com/docs/houdini/hom/hou/index.html)
