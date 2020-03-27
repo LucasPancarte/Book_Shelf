@@ -96,6 +96,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Matthew Cong - RnD ILM](http://physbam.stanford.edu/~mdcong/)
   - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
   - [BindPose - Rigging and Scripting Blog](https://bindpose.com/)
+  - [Auto Character System 3](https://www.autocharactersystem.com/)
 
 
 # **Houdini Tutorials :**
