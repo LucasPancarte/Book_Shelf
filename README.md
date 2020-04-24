@@ -177,6 +177,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Megabubu Rigs](https://gumroad.com/megabubu?fbclid=IwAR2BOvnqJCkC5VA1E18zfdZjmc8mVDdO9t2XUFnRBedptN_hzCnzxtsbup4)
   - [Alorema Rigs](https://gumroad.com/alorema?fbclid=IwAR0Jzs4nMVJvzcngrtGhDVCzc67ntfaOWPZsy7e0hECi98WLSeR-68QDqDo)
   - [Look Rig](https://www.lookrig.com/)
+  - [Anim Props](https://animprops.com/)
 
 # **Other Ressources :**
   - [Lesterbankcs - tutorials](https://lesterbanks.com/?a1=4)
