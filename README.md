@@ -179,6 +179,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Alorema Rigs](https://gumroad.com/alorema?fbclid=IwAR0Jzs4nMVJvzcngrtGhDVCzc67ntfaOWPZsy7e0hECi98WLSeR-68QDqDo)
   - [Look Rig](https://www.lookrig.com/)
   - [Anim Props](https://animprops.com/)
+  - [BuiltByCollossus](https://builtbycolossus.com/store)
 
 # **Other Ressources :**
   - [Lesterbankcs - tutorials](https://lesterbanks.com/?a1=4)
