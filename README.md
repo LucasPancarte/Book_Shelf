@@ -180,6 +180,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Look Rig](https://www.lookrig.com/)
   - [Anim Props](https://animprops.com/)
   - [BuiltByCollossus](https://builtbycolossus.com/store)
+  - [Animation Buffet](http://animationbuffet.blogspot.com/)
 
 # **Other Ressources :**
   - [Lesterbankcs - tutorials](https://lesterbanks.com/?a1=4)
