@@ -87,6 +87,7 @@ Tell me if links don t work anymore or if you have stuff to add to this file : p
   - [Concordial Research Proposal 2015](https://drive.google.com/open?id=1jYW3mXwro0afZ3NXwt6kp3IgNotAFx8W)
   - [DRECON: DATA-DRIVEN RESPONSIVE CONTROL OF PHYSICS-BASED CHARACTERS](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/)
   - [Lower Face Rigging](https://www.linkedin.com/pulse/lower-face-rigging-guillaume-ferrachat/?fbclid=IwAR3ez8F17ohJpdroU4y8G8qzwo5JV2hZpYUJ-VHGi5S_1tnhlDsvkI96h3k)
+  - [Pixar - Sculpting Process for Rigging](https://drive.google.com/file/d/1qKFRV89cIu6Qi6H9F0ZxW_FCSJzjOfqj/view?usp=sharing)
 
 # **Blogs :**
   - [JustToDoSomethingBad - Ephemeral Rigging Blog](https://www.justtodosomethingbad.com/)
