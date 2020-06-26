@@ -1,0 +1,10 @@
+# **Blogs :**
+  - [JustToDoSomethingBad - Ephemeral Rigging Blog](https://www.justtodosomethingbad.com/)
+  - [Math for 3D](https://zalo.github.io/)
+  - [Tech Anim Dump](https://techanimator.blogspot.com/)
+  - [Cult of Rig](http://www.cultofrig.com/)
+  - [Rigging Clown](http://the-rigging-clown.blogspot.com/)
+  - [Matthew Cong - RnD ILM](http://physbam.stanford.edu/~mdcong/)
+  - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
+  - [BindPose - Rigging and Scripting Blog](https://bindpose.com/)
+  - [Auto Character System 3](https://www.autocharactersystem.com/)
