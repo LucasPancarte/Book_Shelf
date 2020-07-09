@@ -29,3 +29,4 @@
   - [BuiltByCollossus](https://builtbycolossus.com/store)
   - [Animation Buffet](http://animationbuffet.blogspot.com/)
   - [Ramon Arango](https://gumroad.com/ramonarango)
+  - [CGMeetup](https://www.cgmeetup.com/downloads)
