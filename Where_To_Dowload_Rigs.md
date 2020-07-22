@@ -30,3 +30,4 @@
   - [Animation Buffet](http://animationbuffet.blogspot.com/)
   - [Ramon Arango](https://gumroad.com/ramonarango)
   - [CGMeetup](https://www.cgmeetup.com/downloads)
+  - [Trevital](https://gumroad.com/trevital?recommended_by=search)
