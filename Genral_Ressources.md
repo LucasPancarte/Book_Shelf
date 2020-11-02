@@ -1,3 +1,5 @@
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
+
 # **General Ressources :**
   - [Lesterbankcs - tutorials](https://lesterbanks.com/?a1=4)
   - [Vimeo - videos](https://vimeo.com/)
@@ -18,3 +20,5 @@
   - [SyncSketch - Animation Retake online tool](https://syncsketch.com/)
   - [Houndini VEX](https://www.sidefx.com/docs/houdini/vex/functions/index.html)
   - [Houdini Python](https://www.sidefx.com/docs/houdini/hom/hou/index.html)
+
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)

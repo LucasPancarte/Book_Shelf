@@ -1,3 +1,5 @@
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
+
 # **Rigging Tutorials (Non Houdini) :**
   - [Maya Character Rigging Fundamentals](https://www.youtube.com/watch?v=c538zkwxgTQ&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH)
   - [Maya Character Asset](https://www.youtube.com/watch?v=ym9VIKB0tXI&list=PL8hZ6hQCGHMUire3-V9bz4nAjdNK3ff6a)
@@ -33,3 +35,4 @@
   - [Maya Mash](https://www.youtube.com/watch?v=5UDr_nK9PSs&list=PLd9alCBg4-McRCZ1BBhYoLqmpZIq4GPy8)
   - [Rigging wheels using world Vectors](https://www.youtube.com/watch?v=QpDc93br3dM)
   
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)

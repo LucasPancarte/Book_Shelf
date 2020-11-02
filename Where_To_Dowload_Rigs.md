@@ -1,3 +1,5 @@
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
+
 # **Where To Download Rigs :**
   - [Milio Serrani Rigs](https://gumroad.com/milio_serrano)
   - [Create CG character bank](https://www.createcg.net/category/maya-rigs/)
@@ -31,3 +33,5 @@
   - [Ramon Arango](https://gumroad.com/ramonarango)
   - [CGMeetup](https://www.cgmeetup.com/downloads)
   - [Trevital](https://gumroad.com/trevital?recommended_by=search)
+
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)

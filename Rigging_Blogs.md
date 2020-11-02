@@ -1,3 +1,5 @@
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
+
 # **Blogs :**
   - [JustToDoSomethingBad - Ephemeral Rigging Blog](https://www.justtodosomethingbad.com/)
   - [Math for 3D](https://zalo.github.io/)
@@ -8,3 +10,5 @@
   - [The Orange Duck - Machine Learning](http://theorangeduck.com/page/projects)
   - [BindPose - Rigging and Scripting Blog](https://bindpose.com/)
   - [Auto Character System 3](https://www.autocharactersystem.com/)
+
+ [Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)

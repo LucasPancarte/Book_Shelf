@@ -1,3 +1,5 @@
+[Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
+
 # **Book_Shelf**
   - [Approximate Topological Matching of Quadrilateral Meshes](https://drive.google.com/open?id=19mPOaiJmF7F7lk_KatztsTfGqbDUNkIQ)
   - [Asynchronous Contact Mechanics](https://drive.google.com/open?id=1n_YJR0LH-xLlzs-qRokJstbHe33u5lkB)
@@ -84,3 +86,5 @@
   - [DRECON: DATA-DRIVEN RESPONSIVE CONTROL OF PHYSICS-BASED CHARACTERS](https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/)
   - [Lower Face Rigging](https://www.linkedin.com/pulse/lower-face-rigging-guillaume-ferrachat/?fbclid=IwAR3ez8F17ohJpdroU4y8G8qzwo5JV2hZpYUJ-VHGi5S_1tnhlDsvkI96h3k)
   - [Pixar - Sculpting Process for Rigging](https://drive.google.com/file/d/1qKFRV89cIu6Qi6H9F0ZxW_FCSJzjOfqj/view?usp=sharing)
+
+  [Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
