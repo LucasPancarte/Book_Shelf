@@ -34,5 +34,6 @@
   - [Snake Like Rig Using Geo Constraints](https://vimeo.com/16761041)
   - [Maya Mash](https://www.youtube.com/watch?v=5UDr_nK9PSs&list=PLd9alCBg4-McRCZ1BBhYoLqmpZIq4GPy8)
   - [Rigging wheels using world Vectors](https://www.youtube.com/watch?v=QpDc93br3dM)
+  - [Point on Palley](https://www.youtube.com/user/dcpalley23)
   
 [Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
