@@ -1,7 +1,7 @@
 [Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
 
 # **Where To Download Rigs :**
-  - [Milio Serrani Rigs](https://gumroad.com/milio_serrano)
+  - [Emilio Serrano Rigs](https://gumroad.com/milio_serrano)
   - [Create CG character bank](https://www.createcg.net/category/maya-rigs/)
   - [Christoph Schoch Rigs](https://gumroad.com/thestoff)
   - [Stitch Rig](https://www.coumiller.com/rigging/)
