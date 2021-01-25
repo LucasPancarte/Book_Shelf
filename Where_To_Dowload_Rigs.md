@@ -34,5 +34,6 @@
   - [CGMeetup](https://www.cgmeetup.com/downloads)
   - [Trevital](https://gumroad.com/trevital?recommended_by=search)
   - [Agora Community](https://agora.community/assets)
+  - [Candy Rigs (Props)](https://gumroad.com/candy_rigs?sort=newest)
 
 [Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
