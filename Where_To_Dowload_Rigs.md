@@ -36,5 +36,6 @@
   - [Agora Community](https://agora.community/assets)
   - [Candy Rigs (Props)](https://gumroad.com/candy_rigs?sort=newest)
   - [AnimProps](https://animprops.com/)
+  - [Perry Leijten](https://gumroad.com/peerke?sort=page_layout)
   
 [Back to ReadMe](https://github.com/LucasPancarte/Book_Shelf/blob/master/README.md)
